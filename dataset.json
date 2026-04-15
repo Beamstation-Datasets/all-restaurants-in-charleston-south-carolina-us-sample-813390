@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Charleston in the Southeast with a population of over 150k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Charleston, South Carolina, US",
+  "export_job_id": "4e0b4f93-0145-4432-9d2b-5d535c02d0d6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 813390,
+  "location_name": "Charleston",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-charleston-south-carolina-us-sample-813390",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/813390/beamstation_813390_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 80,
+  "sample_sha256": "1e9ba7e12fa1e403413dbe4f31abd3a41f84c5dcb07e80aa7998983ba403abfb",
+  "sample_size_bytes": 287949,
+  "total_records": 801,
+  "updated_at": "2026-04-09T13:55:25.965988+00:00"
+}
