@@ -1,12 +1,12 @@
 {
-  "export_job_id": "582f0f49-0c8a-4588-9055-2141ad3d2273",
+  "export_job_id": "5eeb9f63-a06c-4991-af1c-0cd7122a059e",
   "id_short": 813390,
-  "published_at": "2026-04-19T19:12:58Z",
+  "published_at": "2026-04-23T19:14:08Z",
   "repo_name": "all-restaurants-in-charleston-south-carolina-us-sample-813390",
   "sample_asset_name": "beamstation_813390_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/813390/beamstation_813390_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 79,
-  "sample_sha256": "721088636655e8fd8dac80c5afd76c4df11c46ced74b89953779a5c40e735678",
-  "sample_size_bytes": 288078,
-  "total_records": 797
+  "sample_records": 36,
+  "sample_sha256": "5553f9cae028dc50c2d032020efb25564dd3d1a8221dcea1be4a7c63f505598f",
+  "sample_size_bytes": 140999,
+  "total_records": 360
 }
