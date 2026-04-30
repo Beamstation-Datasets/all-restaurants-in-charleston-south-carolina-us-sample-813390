@@ -1,6 +1,6 @@
 # All Restaurants in Charleston, South Carolina, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 101 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `813390` |
 | Location | Charleston |
 | Category | Restaurants |
-| Full dataset size | 360 records |
-| Free sample size | 36 records (10.0%) |
-| Last export | 2026-04-23T13:00:51.939583+00:00 |
+| Full dataset size | 1,016 records |
+| Free sample size | 101 records (9.94%) |
+| Last export | 2026-04-30T13:28:42.740968+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-charleston-south-carolina-us-sample-813390/releases/download/sample-latest/beamstation_813390_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
